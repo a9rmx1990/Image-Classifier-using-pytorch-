@@ -35,6 +35,8 @@ PyTorch
 NumPy
 Matplotlib
 Jupyter Notebook
+
+
 🛣️ Repository Roadmap
 
 This repository is planned to evolve from basic neural networks to advanced deep learning systems.
@@ -44,16 +46,19 @@ Phase 1 — Fundamentals
  EMNIST Classification
  Fashion-MNIST Classification
  CIFAR-10 Classification
+
 Phase 2 — Convolutional Neural Networks
  CNN implementation from scratch
  Image augmentation
  Dropout and Batch Normalization
  Performance comparison between ANN and CNN
+
 Phase 3 — Intermediate Computer Vision Projects
  Cat vs Dog Classifier
  Real vs AI Image Classifier
  Face Mask Detection
  Emotion Recognition
+
 Phase 4 — Advanced Architectures
  ResNet
  EfficientNet
